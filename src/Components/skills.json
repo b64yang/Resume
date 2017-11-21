@@ -1,0 +1,27 @@
+{   
+    "skills":{
+        "experience":[
+            {
+                "title":"Web Development: ",
+                "content":"Node.js(express,mongoose,mongodb,postgresql), React(redux), Angular, JQuery, Bootstrap, foundation, MySQL, NoSQL, C#(ASP.net MVC) "
+            },
+            {
+                "title": "iOS Development: ",
+                "content":"Xcode, Swift&Objective-C (UIkit,Coredata,Firebase,SQLite,Alamofire...), React Native(redux) & Node js "
+            },
+            {
+                "title": "Android Development: ",
+                "content": "Android Studio: Java, xml, SQLite, React Native(redux) & Node js"
+            },
+            {
+                "title": "BlockChain: ",
+                "content": "Ethereum: Solidity, Web3 js, geth, truffle, Parity, metaMask, Node js "
+            },
+            {
+                "title": "Other skills: ",
+                "content": "C++( OpenGL, SDL2), Python(Django,scikit-learn,Pandas), Html, Css, Scss, Typescript  "            
+            }
+        ]
+    }
+}
+

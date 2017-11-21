@@ -1,0 +1,110 @@
+.list-none{
+    list-style: none;
+    padding-left: 0;
+}
+.facebookimg{
+    width: 50px;
+    height: 60px;
+}
+.roundedImage{
+    border-radius: 30px;
+    width: 30px;
+    height: 30px;
+}
+.center-text{
+    text-align: center;
+}
+.left-text{
+    text-align: left;
+}
+.right-text{
+    text-align: right;
+}
+.pv-20{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.mv-50{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.m-md {
+    vertical-align: center;
+}
+.skillsTitle{
+    text-align: right;
+    margin-left: 0px;
+    padding-right: 0px;
+    text-decoration: underline;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+.skillsContent{
+    text-align: left;
+    margin-right: 0px;
+    padding-left: 0px;
+    text-decoration: underline;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.selectedElement{
+    text-align: left;
+}
+.selectedElement a{
+    color: #585151;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.underlineHover :hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.expLabel {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    list-style: none;
+    text-align: center;
+    border: 1px solid #E8E8E8;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.description {
+    font-weight: bold;
+    color: #676663;
+    text-align: left;
+}
+.header-underline-center{
+    background: #fd8900;
+    border-radius: 1px;
+    display: inline-block;
+    height: 5px;
+    margin-bottom: 20px;
+    width: 50px;
+}
+.firstRow {
+    color: #FFFC00
+}
+.title a{
+    color: black;
+}
+.selectedExperience {
+    border: 1px solid rgba(20, 19, 19, 0.50);
+    border-radius: 5px;
+    background-color: rgb(164, 211, 220);
+}
+.btn-resume {
+    width: 90%;
+    background-color: rgba(207, 236, 236, 0.60);
+    text-align: center;
+    font-size: 25px;
+    color: black;
+    border: 2px solid rgba(102, 102, 102, 0.3) !important;
+    border-radius: 5px;
+    padding: 10px 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+    
